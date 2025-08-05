@@ -210,8 +210,7 @@ function App() {
               <div className="relative mb-4 sm:mb-6">
                 <div className="relative overflow-hidden rounded-xl sm:rounded-2xl">
                   <img
-                    src="https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=600"
-                    alt="Beautiful moment"
+src="/assets/laxmi.jpg" alt="My raju" 
                     className="w-48 h-48 sm:w-56 sm:h-56 md:w-64 md:h-64 lg:w-80 lg:h-80 object-cover mx-auto animate-photo-glow shadow-2xl border-2 sm:border-4 border-pink-300/50"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-pink-500/20 to-transparent animate-shimmer-overlay"></div>
